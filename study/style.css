@@ -1,0 +1,18 @@
+h1{
+    font-size:20px;
+    color: salmon;
+}
+.tittle {
+    color: aqua;
+    front-size:20px;
+}
+#text {
+    color: blue;
+}
+p{
+    color: aqua !important;
+}
+p{
+    color: blueviolet;
+}
+

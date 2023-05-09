@@ -1,0 +1,20 @@
+section {
+  background-color: aqua;
+  padding: 50px 0 50px 0;
+  width: 200px;
+  border: 4px groove grey;
+  border-radius: 20px;
+  margin: 100px 50px 10px 50px;
+}
+.box {
+  display: inline-block;
+  width: 500px;
+  padding: 50px 20px;
+  background-color: greenyellow;
+  margin: 50px auto;
+  border: black groove;
+  box-sizing: border-box;
+}
+.box > h2 {
+  text-align: center;
+}
